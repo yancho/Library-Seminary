@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+
+  <appSettings>
+
+
+    <add key="ConnectionString"  value="server=localhost;database=semlibrary;uid=qtrackuser;password=SantaLiena1565!"
+  />
+    
+    <add key="DaysToKeep" value="2"/>
+    <add key="LogFilePath" value="E:\test"/>
+    
+    
+  </appSettings>
+  
+</configuration>

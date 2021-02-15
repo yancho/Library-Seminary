@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <appHostConfig path="Default Web Site/SeminaryLibrary" />
+  <contentPath path="D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

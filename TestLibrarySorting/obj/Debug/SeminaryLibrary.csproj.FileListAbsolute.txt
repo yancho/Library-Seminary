@@ -1,0 +1,11 @@
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\bin\favicon.ico
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\bin\Account\SeminaryMembershipProvider.cs
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\bin\Account\SeminaryUsers.cs
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\bin\SeminaryLibrary.dll
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\bin\SeminaryLibrary.pdb
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\bin\MySql.Data.dll
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\bin\MySql.Data.Entity.dll
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\bin\MySql.Web.dll
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\obj\Debug\SeminaryLibrary.dll
+D:\Projects\Seminarju\TestLibrarySorting\TestLibrarySorting\obj\Debug\SeminaryLibrary.pdb

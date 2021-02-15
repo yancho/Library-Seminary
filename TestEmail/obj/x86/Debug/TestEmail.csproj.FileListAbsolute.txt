@@ -1,0 +1,6 @@
+D:\Projects\Seminarju\TestLibrarySorting\TestEmail\bin\Debug\TestEmail.exe.config
+D:\Projects\Seminarju\TestLibrarySorting\TestEmail\bin\Debug\TestEmail.exe
+D:\Projects\Seminarju\TestLibrarySorting\TestEmail\bin\Debug\TestEmail.pdb
+D:\Projects\Seminarju\TestLibrarySorting\TestEmail\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Seminarju\TestLibrarySorting\TestEmail\obj\x86\Debug\TestEmail.exe
+D:\Projects\Seminarju\TestLibrarySorting\TestEmail\obj\x86\Debug\TestEmail.pdb

@@ -1,0 +1,9 @@
+D:\Projects\Seminarju\TestLibrarySorting\CleanReservedBooks\bin\Debug\Account\SeminaryMembershipProvider.cs
+D:\Projects\Seminarju\TestLibrarySorting\CleanReservedBooks\bin\Debug\Account\SeminaryUsers.cs
+D:\Projects\Seminarju\TestLibrarySorting\CleanReservedBooks\bin\Debug\CleanReservedBooks.exe.config
+D:\Projects\Seminarju\TestLibrarySorting\CleanReservedBooks\bin\Debug\CleanReservedBooks.exe
+D:\Projects\Seminarju\TestLibrarySorting\CleanReservedBooks\bin\Debug\CleanReservedBooks.pdb
+D:\Projects\Seminarju\TestLibrarySorting\CleanReservedBooks\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Seminarju\TestLibrarySorting\CleanReservedBooks\obj\x86\Debug\CleanReservedBooks.exe
+D:\Projects\Seminarju\TestLibrarySorting\CleanReservedBooks\obj\x86\Debug\CleanReservedBooks.pdb
+D:\Projects\Seminarju\TestLibrarySorting\CleanReservedBooks\bin\Debug\favicon.ico
